@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "756199975638",
+    "project_id": "winter-ea6a0",
+    "storage_bucket": "winter-ea6a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756199975638:android:0f548d683259067f92b777",
+        "android_client_info": {
+          "package_name": "com.mycompany.newone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756199975638-204i3l8ac8k82r7kcg8egc3s5bc8gmpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.newone",
+            "certificate_hash": "1f0bc518fb29a6eb7072ff1393224b2e8ba3abde"
+          }
+        },
+        {
+          "client_id": "756199975638-mrk241alrp3s88ilifelbvdfr12tbnl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39k26tCOr96Rq0ubtYUiyoREOt-xE0KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756199975638-mrk241alrp3s88ilifelbvdfr12tbnl8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "756199975638-7ev8gtsl958k8gnibtjsmgn6jo5le6tv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.newone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
